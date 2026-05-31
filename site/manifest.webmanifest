@@ -1,0 +1,11 @@
+{
+  "name": "Turtle Traveling Massage",
+  "short_name": "TTM Guadeloupe",
+  "description": "Massage à domicile à Lamentin et Grande-Terre, Guadeloupe. 7j/7 de 09h à 19h.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0D7490",
+  "lang": "fr",
+  "icons": []
+}

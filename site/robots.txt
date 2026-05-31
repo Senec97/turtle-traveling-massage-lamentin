@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://turtle-traveling-massage-lamentin.pages.dev/sitemap.xml
